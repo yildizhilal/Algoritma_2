@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "38ogASYz/ImAhm3ZT86ATRNMDotdWTJ02EZ8yyVoPsfZ1x4TK0byKnENh2gjZgCda3aj5AlpgImGknyIJQveKA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hilal\\Desktop\\Algoritma\\Algoritma2\\Algoritma2\\Algoritma2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hilal\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
